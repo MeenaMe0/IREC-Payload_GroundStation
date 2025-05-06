@@ -9,6 +9,7 @@ My primary responsibilities include *electronics development* and *data analysis
 Microcontroller:
 - 1 x Arduino UNO R4 
 - 1 x Heltec LoRa ESP32 V2
+
 Module:
 - 2 × GY-521 MPU6050: Measures 3-axis acceleration, yaw, and pitch (I2C).
 - 1 × GY-273 HMC5883L: Corrects 3-axis acceleration and measures changes in direction relative to the landing site (I2C).
