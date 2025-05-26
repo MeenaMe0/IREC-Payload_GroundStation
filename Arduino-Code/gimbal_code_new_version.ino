@@ -1,7 +1,7 @@
 /*
-   Interesting code 1: 
-   int pwm = abs(output);
-  pwm = constrain(pwm, 0, 255);
+
+   Gimbal code with some edition in adjusting the pwm according to the mpu6050. (never tried with the hardware, but suggested)
+   
   คำนวณ pwm จาก output
 
 */
