@@ -1,5 +1,7 @@
 /*
- Simple version of pwm that set as constant. and upload the data log to sd card
+ THIS CODE IS THE CODE THAT UPLOAD TO THE ARDUINO R4 for gimbal working IREC 2025
+
+Simple version: pwm set as constant. and upload the data log to sd card
  - simple pwm
  - log sd
  - avoid g > 10
